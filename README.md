@@ -1,6 +1,6 @@
 ### I'm Pablo, also known as @ppizarror
 
-- 🔭 I’m currently working on my MSc. structural engineering AI thesis
+- 🔭 I’m currently working on my MSc. structural civil engineering AI thesis
 - 🌱 I’m currently learning CV, AI, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
 - 📫 How to reach me: pablo@ppizarror.com
 - ⚡ Fun fact: I love video games, running and drumming
