@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on my MSc. structural civil engineering AI thesis
 - 🌱 I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
-- 📫 How to reach me: pablo@ppizarror.com
 - ⚡ Fun fact: I love video games, running and drumming
+- 📫 How to reach me: pablo@ppizarror.com
 
 ### Connect with me:
 
