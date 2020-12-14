@@ -72,7 +72,7 @@
   <img alt="Git/SSH" src="https://img.shields.io/badge/Git/SSH-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+## Stats
 
 <p align="center">
   <a href="https://ppizarror.com">
