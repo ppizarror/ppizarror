@@ -40,7 +40,7 @@
 - :drum: Fun fact: I love video games, running and drumming
 <!-- - :mailbox: How to reach me: https://ppizarror.com -->
 
-### Languages/Frameworks:
+### Languages/Frameworks
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,7 +65,7 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-### Tools:
+### Tools
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -85,5 +85,13 @@
   </a>
   <a href="https://ppizarror.com" alt="Wakatime">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&layout=compact" />
+  </a>
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <a href="https://ppizarror.com">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
   </a>
 </p>
