@@ -193,5 +193,4 @@ CSS                      3 repos             ░░░░░░░░░░░�
 ## Recent activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
