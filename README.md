@@ -22,6 +22,8 @@
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][gh]
