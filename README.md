@@ -79,19 +79,25 @@
 ## Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<p align="left">
   <a href="https://ppizarror.com">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppizarror&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppizarror&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
   </a>
   <a href="https://ppizarror.com" alt="Wakatime">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&layout=compact" />
   </a>
 </p>
 
+<details>
+  <summary>📈 More stats</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
 ## GitHub Trophies
 
-<p align="center">
+<p align="left">
   <a href="https://ppizarror.com">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
   </a>
 </p>
