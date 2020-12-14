@@ -29,14 +29,14 @@
   <img src="https://img.shields.io/badge/nvidia-rtx 2070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-### Info
+## Info
 
 - :telescope: I’m currently working on my MSc. structural civil engineering AI thesis
 - :mortar_board: I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
 - :drum: Fun fact: I love video games, running and drumming
 - :mailbox: How to reach me: https://ppizarror.com
 
-### Contact
+## Contact
 
 <a href="mailto:pablo@ppizarror.com">
   <img align="left" alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -47,7 +47,7 @@
 
 <br />
 
-### Languages:
+## Languages:
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,7 +64,7 @@
   <img alt="Tex/Latex" src="https://img.shields.io/badge/Latex-092E20?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-### Tools:
+## Tools:
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -80,5 +80,3 @@
 <a href="https://ppizarror.com" alt="Wakatime">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
-
-[gh]: https://github.com/ppizarror
