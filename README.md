@@ -189,3 +189,9 @@ CSS                      3 repos             ░░░░░░░░░░░�
     <img src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
   </a>
 </p>
+
+## Recent activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
