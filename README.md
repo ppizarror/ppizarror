@@ -33,14 +33,14 @@
   <img src="https://img.shields.io/badge/nvidia-rtx 2070 @8Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-## Info
+## :information_source: Info
 
 - :telescope: I’m currently working on my MSc. structural civil engineering AI thesis
 - :mortar_board: I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
 - :drum: Fun fact: I love video games, running and drumming
 <!-- - :mailbox: How to reach me: https://ppizarror.com -->
 
-## Languages/Frameworks
+## :computer: Languages/Frameworks
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,7 +65,7 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-## Tools
+## :wrench: Tools
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -76,7 +76,7 @@
   <img alt="Git/SSH" src="https://img.shields.io/badge/Git/SSH-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## Stats
+## :bar_chart: Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
@@ -182,15 +182,7 @@ CSS                      3 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-## GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
-  </a>
-</p>
-
-## Recent activity
+## :zap: Recent activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#228](https://github.com/ppizarror/pygame-menu/issues/228) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
@@ -199,3 +191,11 @@ CSS                      3 repos             ░░░░░░░░░░░�
 4. 🎉 Merged PR [#225](https://github.com/ppizarror/pygame-menu/pull/225) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
 5. 💪 Opened PR [#225](https://github.com/ppizarror/pygame-menu/pull/225) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
 <!--END_SECTION:activity-->
+
+## :trophy: GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
+  </a>
+</p>
