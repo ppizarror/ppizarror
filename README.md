@@ -35,7 +35,7 @@
 - :telescope: I’m currently working on my MSc. structural civil engineering AI thesis
 - :mortar_board: I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
 - :drum: Fun fact: I love video games, running and drumming
-- :mailbox: How to reach me: https://ppizarror.com
+<!-- - :mailbox: How to reach me: https://ppizarror.com -->
 
 ### Languages/Frameworks:
 
