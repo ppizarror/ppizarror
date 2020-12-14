@@ -1,19 +1,19 @@
 <h1 align='center'>
-  Hi there 👋 I'm Pablo
+  Hi there :ok_hand: I'm Pablo
 </h1>
 
 <p align='center'>
   A Msc. structural engineering student, and maybe a Msc. in Cs. too.
 </p>
 
-### Info
+### :information_source: Info
 
-- 🔭 I’m currently working on my MSc. structural civil engineering AI thesis
-- 🌱 I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
-- ⚡ Fun fact: I love video games, running and drumming
-- 📫 How to reach me: https://ppizarror.com
+- :telescope: I’m currently working on my MSc. structural civil engineering AI thesis
+- :mortar_board: I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
+- :drum: Fun fact: I love video games, running and drumming
+- :mailbox: How to reach me: https://ppizarror.com
 
-### Contact
+### :phone: Contact
 
 <a href="mailto:pablo@ppizarror.com">
   <img align="left" alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,7 +24,7 @@
 
 <br />
 
-### Languages and Tools:
+### :computer: Languages:
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][gh]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][gh]
@@ -38,7 +38,13 @@
 [<img align="left" alt="Keras" src="https://img.shields.io/badge/Keras-CC342D?style=for-the-badge&logo=keras&logoColor=white" />][gh]
 [<img align="left" alt="OpenGL" src="https://img.shields.io/badge/OpenGL-0175C2?style=for-the-badge&logo=opengl&logoColor=white" />][gh]
 [<img align="left" alt="Tex/Latex" src="https://img.shields.io/badge/Latex-092E20?style=for-the-badge&logo=latex&logoColor=white" />][gh]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][gh]
+
+<br />
+<br />
+
+### :toolbox: Tools:
+
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][gh]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gh]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][gh]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gh]
