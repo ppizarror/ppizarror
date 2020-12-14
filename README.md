@@ -45,9 +45,8 @@
 ### :toolbox: Tools:
 
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][gh]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gh]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][gh]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gh]
+[<img align="left" alt="Jetbrains" src="https://img.shields.io/badge/JetBrains-100000?style=for-the-badge&logo=jetbrains&logoColor=white" />][gh]
+[<img align="left" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />][gh]
 
 <br />
 <br />
@@ -55,10 +54,13 @@
 ---
 
 <a href="https://ppizarror.com" alt="ppizarror's Github Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 <a href="https://ppizarror.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppizarror&layout=compact&&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppizarror&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=9" />
+</a>
+<a href="https://ppizarror.com" alt="Wakatime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 
 [gh]: https://github.com/ppizarror
