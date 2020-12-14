@@ -44,7 +44,7 @@
 
 ### :toolbox: Tools:
 
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][gh]
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />][gh]
 [<img align="left" alt="Jetbrains" src="https://img.shields.io/badge/JetBrains-100000?style=for-the-badge&logo=jetbrains&logoColor=white" />][gh]
 [<img align="left" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />][gh]
 
