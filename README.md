@@ -1,16 +1,26 @@
-### I'm Pablo, also known as @ppizarror
+<h1 align='center'>
+  Hi there 👋 I'm Pablo
+</h1>
+
+<p align='center'>
+  A Msc. structural engineering student, and maybe a Msc. in Cs. too.
+</p>
+
+### Info
 
 - 🔭 I’m currently working on my MSc. structural civil engineering AI thesis
 - 🌱 I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
 - ⚡ Fun fact: I love video games, running and drumming
 - 📫 How to reach me: https://ppizarror.com
 
-<br />
-
 ### Contact
 
-[<img align="left" alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<a href="mailto:pablo@ppizarror.com">
+  <img align="left" alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ppizarror/">
+  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ### Languages and Tools:
 
@@ -32,6 +42,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gh]
 
 <br />
+<br />
 
 ---
 
@@ -43,5 +54,3 @@
 </a>
 
 [gh]: https://github.com/ppizarror
-[email]: mailto:pablo@ppizarror.com
-[linkedin]: https://www.linkedin.com/in/ppizarror/
