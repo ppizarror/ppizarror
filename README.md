@@ -40,15 +40,15 @@
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Matlab" src="https://img.shields.io/badge/Matlab-FA7343?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img alt="Tex/Latex" src="https://img.shields.io/badge/Latex-092E20?style=for-the-badge&logo=latex&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-CC342D?style=for-the-badge&logo=keras&logoColor=white" />
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-0175C2?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img alt="Tex/Latex" src="https://img.shields.io/badge/Latex-092E20?style=for-the-badge&logo=latex&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="Pascal" src="https://img.shields.io/badge/Pascal-404D59?style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
