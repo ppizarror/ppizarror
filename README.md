@@ -90,6 +90,7 @@
 
 <details>
   <summary>📈 More stats</summary>
+  <br />
   <!--START_SECTION:waka-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
