@@ -36,17 +36,6 @@
 - :drum: Fun fact: I love video games, running and drumming
 - :mailbox: How to reach me: https://ppizarror.com
 
-### Contact:
-
-<a href="mailto:pablo@ppizarror.com">
-  <img align="left" alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ppizarror/">
-  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br />
-
 ### Languages:
 
 <p align="left">
