@@ -89,7 +89,7 @@
 </p>
 
 <details>
-  <summary>📈 More stats</summary>
+  <summary>More stats</summary>
   <br />
   <!--START_SECTION:waka-->
 
