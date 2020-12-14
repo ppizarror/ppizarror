@@ -65,7 +65,7 @@
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Jetbrains" src="https://img.shields.io/badge/JetBrains-100000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-  <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="SAP2000/ETABS" src="https://img.shields.io/badge/SAP2000/ETABS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe&20Illustrator&logoColor=white" />
   <img alt="Git/SSH" src="https://img.shields.io/badge/Git/SSH-100000?style=for-the-badge&logo=github&logoColor=white" />
