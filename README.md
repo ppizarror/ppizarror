@@ -176,11 +176,11 @@ CSS                      3 repos             ░░░░░░░░░░░�
 ## :zap: Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#226](https://github.com/ppizarror/pygame-menu/issues/226) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-2. 🗣 Commented on [#226](https://github.com/ppizarror/pygame-menu/issues/226) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-3. 🗣 Commented on [#230](https://github.com/ppizarror/pygame-menu/issues/230) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-4. 🗣 Commented on [#231](https://github.com/ppizarror/pygame-menu/issues/231) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-5. ❗️ Closed issue [#9](https://github.com/spelunky-fyi/overlunky/issues/9) in [spelunky-fyi/overlunky](https://github.com/spelunky-fyi/overlunky)
+1. 🗣 Commented on [#234](https://github.com/ppizarror/pygame-menu/issues/234) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
+2. 🎉 Merged PR [#234](https://github.com/ppizarror/pygame-menu/pull/234) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
+3. ❗️ Closed issue [#226](https://github.com/ppizarror/pygame-menu/issues/226) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
+4. 🗣 Commented on [#226](https://github.com/ppizarror/pygame-menu/issues/226) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
+5. 🗣 Commented on [#230](https://github.com/ppizarror/pygame-menu/issues/230) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
 <!--END_SECTION:activity-->
 
 ## :trophy: GitHub Trophies
