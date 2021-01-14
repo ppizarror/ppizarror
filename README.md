@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A Msc. structural civil engineering student, and a future Msc. student in Computer Science
+  A student of MSc. Structural Civil Engineering + MSc. in Computer Science
 </p>
 
 <p align="center">
