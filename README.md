@@ -26,16 +26,21 @@
 </p>
 
 <p align="center">
-  💻 My workspace<br/><br/>
+  💻 My workspace
+  <br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core i7 9th @4.5Ghz-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx 2070 @8Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple Silicon M1-000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 ## :information_source: Info
 
-- :telescope: I’m currently working on my MSc. structural civil engineering AI thesis
+- :telescope: I’m currently working on my MSc. structural civil engineering AI thesis + Researching in automatic floor plan recognition on my MSc. in computer science
 - :mortar_board: I’m currently learning Web Development, AI+ML+DL+CV, Computational Geometry, UI, Structural Design, Construction Engineering & Data Science
 - :drum: Fun fact: I love video games, running and drumming
 <!-- - :mailbox: How to reach me: https://ppizarror.com -->
