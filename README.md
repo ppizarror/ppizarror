@@ -48,7 +48,7 @@
 - :drum: Fun fact: I love video games, running and drumming
 <!-- - :mailbox: How to reach me: https://ppizarror.com -->
 
-## :computer: Languages/Frameworks
+## :computer: Languages / Frameworks
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
