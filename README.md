@@ -111,7 +111,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 2,239 Contributions in the Year 2021
  > 
 > 📦 1.5 MB Used in Github's Storage 
  > 
@@ -190,7 +190,7 @@ C++                      3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ppizarror/ppizarror/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/07/2021
+ Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
 </details>
 
