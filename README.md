@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  A student of MSc. Structural Civil Engineering <b>+</b> MSc. in Computer Science
+  MSc student in Computer Science. Civil Engineer and MSc in Structural Engineering Science
 </p>
 
 <p align="center">
