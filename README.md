@@ -43,9 +43,9 @@
 
 ## :information_source: Info
 
-- :telescope: I’m currently working on my MSc. structural civil engineering AI thesis + Researching in automatic floor plan recognition on my MSc. in computer science
-- :mortar_board: I’m currently learning Web Development, AI+ML+DL+CV+NLP, Computational Geometry, UI/UX, Structural Design, Construction Engineering & Data Science
-- :drum: Fun fact: I love video games, running and drumming
+- :telescope: I am currently researching automatic floor plan recognition at my MSc. in computer science
+- :mortar_board: I am currently learning Web Development, AI+ML+DL+CV+NLP, Computational Geometry, UI/UX, Structural Design, Construction Engineering & Data Science
+- :drum: Fun fact: I love video games, running, and drumming
 <!-- - :mailbox: How to reach me: https://ppizarror.com -->
 
 ## :computer: Languages / Frameworks
