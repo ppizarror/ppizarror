@@ -2,11 +2,11 @@
 <!-- icons: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h1 align="center">
-  Hi there :ok_hand: I'm Pablo
+  Hi there 👌 I'm Pablo
 </h1>
 
 <p align="center">
-  MSc student in Computer Science. Civil Engineer and MSc in Structural Engineering
+  M.Sc. student in Computer Science. Civil Engineer and M.Sc. in Structural Engineering
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@
   </a>
 </p>
 
-## :information_source: Info
+## ℹ️ Info
 
-- 🔭 I am currently researching automatic floor plan recognition at my MSc. in computer science
 - 👷 Software, R&D engineer at <a href="https://github.com/IE3-CL">IE³ Structural Engineering</a>
+- 🔭 I am currently researching automatic floor plan recognition at my M.Sc. in computer science
 - 🎓 I am currently learning Web Development, AI+ML+DL+CV+NLP, Computational Geometry, UI/UX, Structural Design, Construction Engineering & Data Science
 - 🥁 Fun fact: I love video games, running, and drumming
 <!-- - 📫 How to reach me: https://ppizarror.com -->
