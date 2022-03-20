@@ -30,12 +30,13 @@
 
 ## :information_source: Info
 
-- :telescope: I am currently researching automatic floor plan recognition at my MSc. in computer science
-- :mortar_board: I am currently learning Web Development, AI+ML+DL+CV+NLP, Computational Geometry, UI/UX, Structural Design, Construction Engineering & Data Science
-- :drum: Fun fact: I love video games, running, and drumming
-<!-- - :mailbox: How to reach me: https://ppizarror.com -->
+- 🔭 I am currently researching automatic floor plan recognition at my MSc. in computer science
+- 👷 Software, R&D engineer at <a href="https://github.com/IE3-CL">IE³ Structural Engineering</a>
+- 🎓 I am currently learning Web Development, AI+ML+DL+CV+NLP, Computational Geometry, UI/UX, Structural Design, Construction Engineering & Data Science
+- 🥁 Fun fact: I love video games, running, and drumming
+<!-- - 📫 How to reach me: https://ppizarror.com -->
 
-## :computer: Languages / Frameworks
+## 💻 Languages / Frameworks
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,7 +66,7 @@
   <!--<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> -->
 </p>
 
-## :wrench: Tools
+## 🛠️ Tools
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -76,7 +77,7 @@
   <img alt="Git/SSH" src="https://img.shields.io/badge/Git/SSH-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## :bar_chart: Stats
+## 📊 Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
