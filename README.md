@@ -79,6 +79,8 @@
 
 ## 📊 Stats
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://ppizarror.com">
