@@ -79,15 +79,15 @@
 
 ## 📊 Stats
 
+<!-- 3D contribs -->
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://ppizarror.com">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppizarror&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
   </a>
 </p>
-
-<!-- 3D contribs -->
-![](./profile-3d-contrib/profile-night-view.svg)
 
 <details>
   <summary>More stats</summary>
