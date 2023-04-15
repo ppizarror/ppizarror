@@ -33,7 +33,7 @@
 - 👷 Software, R&D engineer @ <a href="https://github.com/IE3-CL">IE³ Structural Engineering</a>
 - 🔗 Full stack web developer
 - 🔭 I am currently researching automatic floor plan recognition at my M.Sc. in computer science @ <a href="https://www.dcc.uchile.cl/">dcc, UCH</a>
-- 🎓 Experienced in Web Development, AI+ML+DL+CV+NLP, Computational Geometry, UI/UX, Structural Design, Construction Engineering & Data Science
+- 🎓 Experienced in Web Development, AI+ML+DL+CV, Computational Geometry, UI/UX, Construction Engineering & Structural Design
 - 🥁 Fun fact: I love video games, running, and drumming
 <!-- - 📫 How to reach me: https://ppizarror.com -->
 
