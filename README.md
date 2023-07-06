@@ -40,8 +40,8 @@
 
 <!-- 3D contribs -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img src="./profile-3d-contrib/profile-night-view.svg">
 </picture>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
