@@ -19,7 +19,6 @@
   <a href="https://www.linkedin.com/in/ppizarror/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--<img src="https://profile-counter.glitch.me/ppizarror/count.svg" style="display: none" />-->
 </p>
 
 <p align="center">
