@@ -52,7 +52,7 @@
 -->
 
 <details>
-  <summary>More stats</summary>
+  <summary>More</summary>
   <br />
   
   <a href="https://ppizarror.com" alt="Wakatime">
