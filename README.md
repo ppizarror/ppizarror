@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  M.Sc. student in Computer Science. Civil Engineer and M.Sc. in Structural Engineering
+  Civil Engineer, M.Sc. in Computer Science, and M.Sc. in Structural Engineering. Interested in designing and implementing software applications in artificial intelligence, numerical analysis, architectural/structural design, web & databases, and computer graphics.
 </p>
 
 <p align="center">
