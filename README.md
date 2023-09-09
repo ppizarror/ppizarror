@@ -51,16 +51,6 @@
   </a>
 </details>
 
-<!--
-## :trophy: GitHub Trophies
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
-  </a>
-</p>
--->
-
 ## 💻 Languages
 
 <p align="left">
