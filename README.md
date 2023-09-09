@@ -27,14 +27,6 @@
   </a>
 </p>
 
-## ℹ️ Info
-
-- 🔗 Full stack web developer
-- 🔭 I am currently researching automatic floor plan recognition at my M.Sc. in computer science @ <a href="https://www.dcc.uchile.cl/">dcc, UCH</a>
-- 🎓 Experienced in Web Development, AI+ML+DL+CV, Computational Geometry, UI/UX, Construction Engineering & Structural Design
-- 🥁 Fun fact: I love video games, running, and drumming
-<!-- - 📫 How to reach me: https://ppizarror.com -->
-
 ## 📊 Stats
 
 <!-- 3D contribs -->
