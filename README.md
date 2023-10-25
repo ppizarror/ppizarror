@@ -31,8 +31,8 @@
 
 <!-- 3D contribs -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img src="./profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-custom-en.svg">
 </picture>
 
 <details>
