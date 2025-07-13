@@ -15,12 +15,6 @@
   <a href="https://ppizarror.com"><img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://ppizarror.com" alt="ppizarror's Github Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ppizarror&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-</p>
-
 ## 📊 Stats
 
 <!-- 3D contribs -->
