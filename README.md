@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  Software Engineer, Civil Engineer. M.Sc. in Computer Science and M.Sc. in Structural Engineering. Interested in designing and implementing software applications, AI, architectural/structural design, and computer graphics.
+  Software Engineer focused on applied AI and complex software architecture. Experience in data science, computer vision, graph-based models, and system performance optimization.
 </p>
 
 <p align="center">
